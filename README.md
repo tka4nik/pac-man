@@ -30,7 +30,6 @@ The project was made in order to practise OOP style programming and Patters.
  * `Prototype` and `Memento` for handing game saves
  * `Builder` for making of levels (including walls and such)
  * `Visitor` for interactions with enemies and food
- * 
 
 ### Installation
 
